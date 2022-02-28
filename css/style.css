@@ -27,7 +27,7 @@ body {
 
 .grid-wrapper {
   display: grid;
-  padding: 15px;
+  padding: 15px 25px;
   grid-template-columns: repeat(2, 50%);
   grid-template-rows: repeat(12, auto);
 }
