@@ -33,7 +33,7 @@ body {
 }
 
 .wrapper {
-  margin: auto;
+  margin: 20px auto 0 auto;
   background-color: #f6f0ed;
   padding: 0px;
   width: 100%;
@@ -223,10 +223,4 @@ hr {
   height: 0.5px;
   background-color: #152C3C;
   margin: 10px auto;
-}
-
-@media screen and (min-width: 600px) {
-  .wrapper {
-    max-width: 1200px;
-  }
 }/*# sourceMappingURL=style.css.map */
